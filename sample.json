@@ -1,0 +1,30 @@
+{
+  "application": {
+    "name": "JSON Formatter & Validator",
+    "version": "1.0.0",
+    "features": [
+      "format",
+      "validate",
+      "explore",
+      "query",
+      "diff",
+      "export"
+    ]
+  },
+  "users": [
+    {
+      "id": 101,
+      "name": "Alex",
+      "email": "alex@example.com",
+      "active": true,
+      "roles": ["admin", "developer"]
+    },
+    {
+      "id": 102,
+      "name": "Sam",
+      "email": "sam@example.com",
+      "active": false,
+      "roles": ["viewer"]
+    }
+  ]
+}
